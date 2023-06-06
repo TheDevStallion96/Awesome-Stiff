@@ -1,4 +1,4 @@
 # Awesome Development Stuff
 
 ## Electronjs
-- [Electron](https://github.com/electron/electron)
+- [Electron Repository](https://github.com/electron/electron)
